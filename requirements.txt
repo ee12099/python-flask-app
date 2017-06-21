@@ -1,0 +1,7 @@
+mysql-python
+Redis
+sqlalchemy
+Flask
+Flask-Restful
+Flask-SQLAlchemy
+jsonpickle
